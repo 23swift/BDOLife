@@ -15,8 +15,10 @@ git clone https://github.com/23swift/BDOLife.git
 7. Click Load Data.
 
 Remove PDF Page
-1.Select Any pdf file for the "Select PDF File"
-2. Select the output directory with "Select Output Location"
+1.Select Any pdf file for the "Select PDF File".
+
+2. Select the output directory with "Select Output Location".
+
 3.Enter an interger or scroll to the page number that will be removed.
 
-4. Click "Update PDF"
+4. Click "Update PDF".
