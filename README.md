@@ -11,10 +11,11 @@ git clone https://github.com/23swift/BDOLife.git
 
 4. Select "itextkey1590057483769_0.xml" xml file for "Select IText Trial Key".
 5. Select "Tmpl - APP I9011006451.pdf" file for the "Select Data Template".
-6. Select "APP I9011006451.pdf" file for the "Select PDF File To Read"
+6. Select "APP I9011006451.pdf" file for the "Select PDF File To Read".
 7. Click Load Data.
 
-Remove PDF Page
+Remove PDF Page.
+
 1.Select Any pdf file for the "Select PDF File".
 
 2. Select the output directory with "Select Output Location".
