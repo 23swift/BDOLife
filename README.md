@@ -1,6 +1,10 @@
 # BDOLife
+YOu have to have git installed on your PC.
+
 Read Application PDF Data
-1. Clone the Application by:
+1. Clone the Application by typing: 
+
+git clone https://github.com/23swift/BDOLife.git
 
 2. Right Click on the Solution and Select "Restore Nuget Packages" 
 3. Run The Application
