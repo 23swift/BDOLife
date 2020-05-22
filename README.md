@@ -9,3 +9,9 @@ Read Application PDF Data
 5. Select "Tmpl - APP I9011006451.pdf" file for the "Select Data Template".
 6. Select "APP I9011006451.pdf" file for the "Select PDF File To Read"
 7. Click Load Data.
+
+Remove PDF Page
+1.Select Any pdf file for the "Select PDF File"
+2. Select the output directory with "Select Output Location"
+3.Enter an interger or scroll to the page number that will be removed.
+4. Click "Update PDF"
